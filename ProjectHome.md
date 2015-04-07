@@ -1,0 +1,1 @@
+This is the latest bot for Zynga Poker and working. Updates will be made from time to time. This program has been written in Auto IT and includes an odds calculator to calculate poker odds.
